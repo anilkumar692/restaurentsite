@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurentsite/static/css/main.bef2f6b1.css",
-    "main.js": "/restaurentsite/static/js/main.cc0442d0.js",
+    "main.js": "/restaurentsite/static/js/main.926f4a8e.js",
     "static/js/787.0ba78865.chunk.js": "/restaurentsite/static/js/787.0ba78865.chunk.js",
     "static/media/blackres2.jpg": "/restaurentsite/static/media/blackres2.c5fa2ae5fc4402b55e31.jpg",
     "static/media/pizza.jpg": "/restaurentsite/static/media/pizza.0e9f0b87aab6e56ea3b3.jpg",
@@ -14,11 +14,11 @@
     "static/media/biryani.jpg": "/restaurentsite/static/media/biryani.bedbc793e1bf9c2e64cc.jpg",
     "index.html": "/restaurentsite/index.html",
     "main.bef2f6b1.css.map": "/restaurentsite/static/css/main.bef2f6b1.css.map",
-    "main.cc0442d0.js.map": "/restaurentsite/static/js/main.cc0442d0.js.map",
+    "main.926f4a8e.js.map": "/restaurentsite/static/js/main.926f4a8e.js.map",
     "787.0ba78865.chunk.js.map": "/restaurentsite/static/js/787.0ba78865.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bef2f6b1.css",
-    "static/js/main.cc0442d0.js"
+    "static/js/main.926f4a8e.js"
   ]
 }
