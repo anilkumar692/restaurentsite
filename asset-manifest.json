@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurentsite/static/css/main.bef2f6b1.css",
+    "main.js": "/restaurentsite/static/js/main.cc0442d0.js",
+    "static/js/787.0ba78865.chunk.js": "/restaurentsite/static/js/787.0ba78865.chunk.js",
+    "static/media/blackres2.jpg": "/restaurentsite/static/media/blackres2.c5fa2ae5fc4402b55e31.jpg",
+    "static/media/pizza.jpg": "/restaurentsite/static/media/pizza.0e9f0b87aab6e56ea3b3.jpg",
+    "static/media/idli.jpg": "/restaurentsite/static/media/idli.94e0964f7706fbba3fc7.jpg",
+    "static/media/paneer.jpg": "/restaurentsite/static/media/paneer.e54e081fcb733a4150cc.jpg",
+    "static/media/sweetblack.jpg": "/restaurentsite/static/media/sweetblack.dd02b398d861515b74c9.jpg",
+    "static/media/samosa.jpg": "/restaurentsite/static/media/samosa.ce1c5141e184cc0b0c9c.jpg",
+    "static/media/chhole.jpg": "/restaurentsite/static/media/chhole.d7b564e44a093c0299b6.jpg",
+    "static/media/sweets.jpg": "/restaurentsite/static/media/sweets.615f11619500358c310e.jpg",
+    "static/media/biryani.jpg": "/restaurentsite/static/media/biryani.bedbc793e1bf9c2e64cc.jpg",
+    "index.html": "/restaurentsite/index.html",
+    "main.bef2f6b1.css.map": "/restaurentsite/static/css/main.bef2f6b1.css.map",
+    "main.cc0442d0.js.map": "/restaurentsite/static/js/main.cc0442d0.js.map",
+    "787.0ba78865.chunk.js.map": "/restaurentsite/static/js/787.0ba78865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef2f6b1.css",
+    "static/js/main.cc0442d0.js"
+  ]
+}
